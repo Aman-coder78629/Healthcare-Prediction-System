@@ -8,8 +8,6 @@ Healthcare organizations generate enormous amounts of patient data every day. Th
 
 This project follows the complete Machine Learning lifecycle, beginning from data collection and preprocessing to model building, evaluation, and prediction. The notebook serves as an educational implementation of healthcare analytics using Python and popular data science libraries.
 
-> **Disclaimer:** This project is intended strictly for educational, research, and learning purposes. It is **not** a replacement for professional medical diagnosis or treatment.
-
 ---
 
 # 🎯 Problem Statement
@@ -299,11 +297,6 @@ seaborn
 scikit-learn
 jupyter
 ```
-
-Install manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn notebook
 ```
 
 ---
